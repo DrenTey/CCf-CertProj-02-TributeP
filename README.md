@@ -7,7 +7,7 @@ The goal of the second project was to ** build a webpage representing _a tribute
 The main conditions as far as I remember were:
 - It has to have a central image of the person to whom it is dedicated with included caption (figure, figcaption)
 - It have to include a hyperlink (anchor element) which will open in the new tab a reference to wikipedia or other information source that I used/could be used to get know more about the subject.
-- it has to have few section using bulletpoints?
+- it has to have few section using bulletpoints?  
 I was left free to decide upon colours and styles of the form.
 As always the condtions for this certificate projects were:
 - It had to be a personal work, using the knowledge learned through previous lessons. 

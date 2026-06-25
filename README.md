@@ -1,7 +1,9 @@
 # CCf-CertProj-02-TributeP
 Project done for Responsive Web Design Certification from freeCodeCamp
+
 26.06.2026: Big update to Vue 3 
-Previous files have been moved to Archive#1 Branch.
+- Previous files have been moved to Archive#1 Branch.
+- Most of the elements have been preserved. 
 
 
 ## Aim of the project:
